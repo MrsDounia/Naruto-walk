@@ -13,7 +13,7 @@ Objectives
 
 Naruto modelisation
 --
-Use of an .obj object, and blender
+Use of an .obj object, and blender for animation
 
 ![image](https://user-images.githubusercontent.com/78479547/126875089-75e514a5-464c-40d3-a5c6-59d7107d663c.png)
 ![image](https://user-images.githubusercontent.com/78479547/126875045-bc4b6b70-b04d-42e4-abad-d532264ef847.png)
