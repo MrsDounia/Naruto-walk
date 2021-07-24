@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\Circle.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\Circle.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/Circle.cpp"
+},
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\Cone.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\Cone.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/Cone.cpp"
+},
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\Cube.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\Cube.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/Cube.cpp"
+},
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\Cylinder.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\Cylinder.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/Cylinder.cpp"
+},
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\Geometry.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\Geometry.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/Geometry.cpp"
+},
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\Shader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\Shader.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/Shader.cpp"
+},
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\Sphere.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\Sphere.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/Sphere.cpp"
+},
+{
+  "directory": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/out/build/x64-Debug (par défaut)",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1428~1.293\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -D_USE_MATH_DEFINES -I..\\..\\..\\include -I..\\..\\..\\libs\\include /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /W4 /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\Graphics_Squelette.dir\\src\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Dounia\\Desktop\\et3INFO\\S6\\Java\\info_graphique\\tp\\Skeleton_v2\\Skeleton\\src\\main.cpp",
+  "file": "C:/Users/Dounia/Desktop/et3INFO/S6/Java/info_graphique/tp/Skeleton_v2/Skeleton/src/main.cpp"
+}
+]
