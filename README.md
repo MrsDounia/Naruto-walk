@@ -4,7 +4,7 @@ School project on computer graphics. Use of C++, C, Visual Studio, computer grap
 
 Objectives
 --
-- To represent the forest of Konoha from the Naruto anime 
+- Represent the forest of Konoha from the Naruto anime 
 - Create the character Naruto who moves with the keyboard
 - Create a world in which he can move
 
