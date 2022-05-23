@@ -23,6 +23,6 @@ Use of an .obj object, and blender for animation
 
 Team
 --
-@Cerise91
+@MrsDounia
 @RoxaneLejeune
 @VidalChloe
